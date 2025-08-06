@@ -1,0 +1,11 @@
+{
+    "title": "Arcade Games Collection",
+    "type": "tool",
+    "tags": ["fun", "realism"],
+    "ignore": [
+        "*.psd",
+        "*.xcf",
+        ".git/*",
+        ".gitignore"
+    ]
+}
